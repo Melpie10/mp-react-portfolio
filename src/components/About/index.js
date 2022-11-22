@@ -1,5 +1,5 @@
 import React from 'react';
-import coverImage from '../../assets/cover/cover-image.jpg';
+import coverImage from '/Users/melanypietrowski/Desktop/projects/mp-react-portfolio/src/assets/cover/HeroMelPie.001.jpeg';
 import SocialFollow from '../../SocialFollow';
 
 function About() {
@@ -28,7 +28,7 @@ function About() {
           * React
           * Github and Gitlab 
 
-          I have worked in collaborative projects, such as the Baby Shower Games Application that will be released to the public soon.
+         I have worked in collaborative projects, such as the Baby Shower Games Application that will be released to the public soon.
         </p>
       </div>
       <SocialFollow />
