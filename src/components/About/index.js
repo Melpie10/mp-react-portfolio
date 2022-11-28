@@ -9,9 +9,8 @@ function About() {
       <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
       <div className="my-2">
         <p>
-          Former teacher in need of a career change. Having a little too much fun building things on the internet. 
-          With a baby on the way, I want to create an app that will be my future baby.
-          I started the Coding Bootcamp at University of North Carolina at Charlotte in October of 2021. 
+          Former HR professional. Having a little too much fun building things on the internet. 
+          I completed the Web Development Bootcamp at the University of North Carolina at Charlotte in April of 2022. 
           Since then, I have completed projects that include usage of: 
           * HTML
           * Advanced CSS
